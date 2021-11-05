@@ -1,0 +1,15 @@
+#baslik
+{
+ color: rgb(10, 106, 138);
+ font-size:100px;
+}
+#liste
+{
+    font-size: 30px;
+    color:green;
+}
+.govderenk
+{
+    color:rgb(35, 9, 99);
+    background-color: limegreen;
+}
